@@ -24,7 +24,7 @@ the description and data could be get from [official website.](https://www.kaggl
 ## Run the code
 If you just want to see the whole process, you can look at the project.ipynb, which including all the code.
 
-If you want to creat the submission file, you can download project.ipynb and unet.h5py and original dataset from website, then create dir called msk, data, subm and weights. Put unet.h5py into weights, and all the dataset go to the data dir. Lastly, run the code in jupyter and get solution.
+If you want to creat the submission file, you can download project.ipynb and unet.h5py and original dataset from website, then create dir called msk, data, subm and weights. Put unet.h5py(at release) into weights dir, and all the dataset go to the data dir. Lastly, run the code in jupyter and get solution.
 
 If you want to train by yourself you can also use the jupyter notebook file and run train2() at the last session.
 

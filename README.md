@@ -3,6 +3,8 @@
 This is a kaggle competition, which need to classify the objects in satellite image into 10 different group, which need people apply novel techniques to "train an eye in the sky",
 the description and data could be get from [official website.](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection)
 
+if you want to see the final report you can click [here](https://github.com/wzxiong/Satellite-Imagery-Feature-Detection/blob/master/satellite.pdf)
+
 ## Software and important package:
 - Python 2.7 or Python 3.5(I use 3.5)
 - Keras 2
